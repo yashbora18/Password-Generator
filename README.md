@@ -1,1 +1,1 @@
-# Password-Generator
+The Password Generator Project is a web-based tool designed using HTML, CSS, and JavaScript that allows users to generate strong, random, and secure passwords instantly. The project provides an interactive and user-friendly interface where users can customize the password based on length and character types, such as uppercase letters, lowercase letters, numbers, and special characters.
